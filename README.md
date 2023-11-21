@@ -1,5 +1,5 @@
 # My_json
-1 - env yaratish $ py -m env env
+1 - env yaratish $ py -m venv venv
 
 
 
